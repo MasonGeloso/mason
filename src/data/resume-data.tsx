@@ -72,12 +72,12 @@ export const RESUME_DATA = {
       company: "Credit Company",
       link: "",
       badges: ["Financial Industry", "Vue3", "Typescript", "Global Deployment"],
-      title: "Full Stack Developer",
+      title: "Senior Software Engineer",
       logo: ClevertechLogo,
       start: "",
       end: "",
       description:
-        " I specialized in full stack development using Vue3 and TypeScript, crafting robust backend solutions and integrating AI features to enhance global financial services. My role involved developing and deploying scalable applications tailored to meet the dynamic needs of the global market.",
+        "Lead several projects and built several internal tools using Vue3 and TypeScript, crafting robust backend solutions and integrating AI features to enhance internal user services. My role involved developing and deploying scalable applications tailored to meet the dynamic needs of the global market.",
     },
     {
       company: "Asahi Intecc USA",
