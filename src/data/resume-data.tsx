@@ -48,26 +48,14 @@ export const RESUME_DATA = {
   },
   work: [
     {
-      company: "Asahi Intecc USA",
-      link: "https://asahi-inteccusa-medical.com/",
-      badges: ["Medical Devices", "Machine Learning", "Web App Development"],
-      title: "Process Automation Specialist → Full Stack Engineer",
-      logo: ParabolLogo,
+      company: "MGi Strategies, LLP",
+      link: "https://www.mgi-strategies.com",
+      badges: ["Engineering Leadership", "Product Development"],
+      title: "CTO & CoFounder",
+      logo: NSNLogo,
       start: "",
       end: "",
-      description:
-        "I developed Robotic Process Automation (RPA) scripts and engineered full stack web applications and analytics platforms to enhance the efficiency of distribution and order processing systems. My work focused on integrating machine learning techniques to optimize workflows and improve decision-making processes.",
-    },
-    {
-      company: "Credit Company",
-      link: "",
-      badges: ["Financial Industry", "Vue3", "Typescript", "Global Deployment"],
-      title: "Full Stack Developer",
-      logo: ClevertechLogo,
-      start: "",
-      end: "",
-      description:
-        " I specialized in full stack development using Vue3 and TypeScript, crafting robust backend solutions and integrating AI features to enhance global financial services. My role involved developing and deploying scalable applications tailored to meet the dynamic needs of the global market.",
+      description: "Led the development and strategic direction of engineering initiatives, overseeing the creation of cutting-edge products. Lead the creation of AI powered portfolio management platform.",
     },
     {
       company: "Starlims",
@@ -81,15 +69,27 @@ export const RESUME_DATA = {
         "Developed innovative AI features that significantly increased revenue by enhancing platform capabilities. Engineered and deployed advanced AI tooling to optimize and streamline internal processes.",
     },
     {
-      company: "MGi Strategies, LLP",
-      link: "https://www.mgi-strategies.com",
-      badges: ["Engineering Leadership", "Product Development"],
-      title: "CTO & CoFounder",
-      logo: NSNLogo,
+      company: "Credit Company",
+      link: "",
+      badges: ["Financial Industry", "Vue3", "Typescript", "Global Deployment"],
+      title: "Full Stack Developer",
+      logo: ClevertechLogo,
       start: "",
       end: "",
-      description: "Led the development and strategic direction of engineering initiatives, overseeing the creation of cutting-edge products. Lead the creation of AI powered portfolio management platform.",
+      description:
+        " I specialized in full stack development using Vue3 and TypeScript, crafting robust backend solutions and integrating AI features to enhance global financial services. My role involved developing and deploying scalable applications tailored to meet the dynamic needs of the global market.",
     },
+    {
+      company: "Asahi Intecc USA",
+      link: "https://asahi-inteccusa-medical.com/",
+      badges: ["Medical Devices", "Machine Learning", "Web App Development"],
+      title: "Process Automation Specialist → Full Stack Engineer",
+      logo: ParabolLogo,
+      start: "",
+      end: "",
+      description:
+        "I developed Robotic Process Automation (RPA) scripts and engineered full stack web applications and analytics platforms to enhance the efficiency of distribution and order processing systems. My work focused on integrating machine learning techniques to optimize workflows and improve decision-making processes.",
+    }
   ],
   skills: [
     "TypeScript",
