@@ -61,7 +61,7 @@ export const RESUME_DATA = {
       company: "Starlims",
       link: "https://starlims.com/",
       badges: ["LLM Development", "RAG Implementation", "AI Consulting"],
-      title: "Head of AI Team",
+      title: "Head of AI Strategy",
       logo: JojoMobileLogo,
       start: "",
       end: "",
